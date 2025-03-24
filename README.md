@@ -1,3 +1,5 @@
 # PgAr2021_GeriatricPark_TamaGolem
 
-*R.I.P. GERIATRIC PARK 2021 - 2021*
+*PROGRAMMA ARNALDO 2021 - IEEE STUDENT BRANCH BRESCIA*
+
+Esercitazione extracurricolare di gruppo
